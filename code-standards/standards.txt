@@ -1,0 +1,7 @@
+PHP Coding Standards Checklist:
+
+Alle files gebruiken LF end of line sequence
+
+"Required" wordt gebruikt in de HTML 
+
+Er wordt gebruik gemaakt van "Public" function
