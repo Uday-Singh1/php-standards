@@ -1,0 +1,9 @@
+PHP Coding Standards Checklist voor cms:
+
+hier wordt aangegeven wat wel wordt gebruikt
+
+Alle files gebruiken LF end of line sequence
+
+"Required" wordt gebruikt in de HTML 
+
+Er wordt gebruik gemaakt van "Public" function
